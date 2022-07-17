@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**DarshanAmbaliya/DarshanAmbaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  <h1 align="center">Hii , I'm Darshan Ambaliya</h1>
+ <p>  &nbsp &nbsp &nbsp &nbsp👨‍💻 Who am I?</p>
+   
+- 👨🏻‍🎓 Currently persuing my B.Tech in IT
+- 🤝 Seeking for help in Open Source Contributions 
+- 🚀 To infinity and beyond !
+- 🌱 I’m currently learning Machine learning + MERN Stack
+- 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/darshan-ambaliya-it01/)
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 📝 [Resume](https://drive.google.com/file/d/1oOGQDFVLpj8u1vG3SGblghdb97tFW9hs/view?usp=sharing)
