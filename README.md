@@ -4,7 +4,6 @@
 - 👨🏻‍🎓 Currently persuing my B.Tech in IT
 - 🤝 Seeking for help in Open Source Contributions 
 - 🚀 To infinity and beyond !
-- 🌱 I’m currently learning Machine learning + MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
 - 💬 Ask me about ...
 - 😄 Pronouns: He/Him
