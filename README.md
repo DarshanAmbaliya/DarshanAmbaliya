@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/darshan-ambaliya-it01/)
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📝 [Resume](https://drive.google.com/file/d/1oOGQDFVLpj8u1vG3SGblghdb97tFW9hs/view?usp=sharing)
+
